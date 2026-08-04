@@ -14,5 +14,6 @@ jobs:
       project-key: 'khanmofis_simple-java-maven-app'
       sonar-token: 'd5878957bf94ab055aa3c3ab4dc31fff9b1aca93'
       sonar-host-url: 'https://sonarcloud.io'
+      sonar-org: 'khanmofis'
 
 
