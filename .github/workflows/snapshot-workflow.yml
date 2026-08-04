@@ -8,6 +8,6 @@ jobs:
   call-build:
     uses: khanmofis/gfs-workflow-files/.github/workflows/maven-build.yml@main
     with:
-      java-version: '17'
+      java-version: '21'
       maven-goal: 'verify'
 
