@@ -6,7 +6,7 @@ on:
 
 jobs:
   call-build:
-    uses: khanmofis/gfs-workflow-files/.github/workflows/build.yml@main
+    uses: khanmofis/gfs-workflow-files/.github/workflows/maven-build.yml@main
     with:
       java-version: '17'
       maven-goal: 'verify'
