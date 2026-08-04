@@ -11,9 +11,8 @@ jobs:
     with:
       java-version: '21'
       maven-goal: 'verify'
-      project-key: 'khanmofis_simple-java-maven-app'
-      sonar-token: 'd5878957bf94ab055aa3c3ab4dc31fff9b1aca93'
-      sonar-host-url: 'https://sonarcloud.io'
-      sonar-org: 'khanmofis'
+      project-key: 'simple-maven'
+      sonar-token: 'sqp_b0c53264467fe4375f86d9c168a5158b4b124f79'
+      sonar-host-url: 'http://localhost:9000'
 
 
