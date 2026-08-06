@@ -11,8 +11,9 @@ jobs:
     with:
       java-version: '21'
       maven-goal: 'verify'
+      project-name: 'maven-project'
       project-key: 'maven-project'
-      sonar-token: 'sqp_fec6df03686077fd4ae4596bcad75f982c1c592b'
+      sonar-token: 'sqp_0bad5f47f094f8956587a490584347ee0938602e'
       sonar-host-url: 'http://localhost:9001'
 
 
